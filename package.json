@@ -1,0 +1,16 @@
+{
+  "name": "boo",
+  "version": "1.0.0",
+  "description": "Bootcamp 2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir docs --public-url ."
+  },
+  "keywords": [],
+  "author": "Sebastian Fuckert",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}

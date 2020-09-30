@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+}
+
+.bigText{
+    font-size: 70px;
+}
+
+.hRed{
+    color: red;
+}
+
+.firstDiv:hover{
+    background-color: cadetblue;
+    height: 200px;
+    color: white;
+}
